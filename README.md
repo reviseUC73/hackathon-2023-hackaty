@@ -23,6 +23,8 @@ git push -u origin main
 - [Supawee Borvornsaktavorn](https://github.com/katisd)
 - [Thanadol Udomsirinanchai](https://github.com/ThanadolU)
 - [Preawpan Thamapipol](https://github.com/Tezigudo)
+- [setthanan thongpanchang](https://github.com/reviseUC73)
+
 ## SOS-Alert
 SOS Alert ให้บริการ 3 ฟีเจอร์ เพื่อตอบโจทย์ปัญหาของนิสิต
 ### 1. SOS Call(ซอส-คอล)
