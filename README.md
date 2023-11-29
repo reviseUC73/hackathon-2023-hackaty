@@ -1,19 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/DRfJgED0)
 # KU Hackathon 2023 
-<p align="center">
-<img width="96px" src="https://s3.tech.nisit.ku.ac.th/assets/ku-hackathon/main-logo.webp" />
-</p>
 
 รายละเอียดโครงการ : https://docs.google.com/document/d/1bn_71K9RF_K8MaBbZNgUAtS7PgFJkon91lOat7AtFxw/edit
 
-
-คำสั่ง git พื้นฐานในการอัปโหลดโค้ดขึ้นมาที่ repository นี้
-
-```bash
-git add .
-git commit -m "<commit_message>"
-git push -u origin main
-```
 # SOS-Alert @Hackathy : “ ให้เราเป็นความปลอดภัยของนิสิต มก ”
 * นิสิตไม่รู้ต้องแจ้งเหตุด่วนเหตุร้ายที่ไหน 
 * นิสิตไม่ได้รับแจ้งเตือนเหตุฉุกเฉิน 
@@ -23,7 +12,7 @@ git push -u origin main
 - [Supawee Borvornsaktavorn](https://github.com/katisd)
 - [Thanadol Udomsirinanchai](https://github.com/ThanadolU)
 - [Preawpan Thamapipol](https://github.com/Tezigudo)
-- [setthanan thongpanchang](https://github.com/reviseUC73)
+- [Setthanan Thongpanchang](https://github.com/reviseUC73)
 
 ## SOS-Alert
 SOS Alert ให้บริการ 3 ฟีเจอร์ เพื่อตอบโจทย์ปัญหาของนิสิต
