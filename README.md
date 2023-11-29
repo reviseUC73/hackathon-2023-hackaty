@@ -143,7 +143,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Contact
 
-For any questions, suggestions, or issues, please contact us at [setthanan@50domain.com]. You can also raise an issue in the GitHub repository.
+For any questions, suggestions, or issues, please contact us at [mail](setthanan@50domain.com). You can also raise an issue in the GitHub repository.
 
 ## Acknowledgements
 
